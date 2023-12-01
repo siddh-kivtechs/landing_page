@@ -577,19 +577,19 @@ filter: drop-shadow(0px 7px 4px rgba(0,0,0,.2));
 }
 
 .article-pre__img--first{
-   background-image: url(https://siddh-kivtechs.github.io/branding/banner.png);
+   background-image: url(https://siddh-kivtechs.github.io/branding/1.jpeg);
 }
 
 .article-pre__img--second{
-  background-image: url(https://siddh-kivtechs.github.io/branding/cloudsolution.png);  
+  background-image: url(https://siddh-kivtechs.github.io/branding/2.jpeg);  
 }
 
 .article-pre__img--third{
-  background-image: url(https://siddh-kivtechs.github.io/branding/cloudsolution.png);  
+  background-image: url(https://siddh-kivtechs.github.io/branding/3.jpeg);  
 }
 
 .article-pre__img--fourth{
-  background-image: url(https://siddh-kivtechs.github.io/branding/cloudsolution.png);  
+  background-image: url(https://siddh-kivtechs.github.io/branding/4.jpeg);  
 }
 
 .article-pre:hover .article-pre__img {
